@@ -1,4 +1,4 @@
-# 📘 Daily Learning Diary – Day 4
+# 📘 Daily Learning Diary – Day 4 - 5
 
 ## 🗓️ Drupal Installation & Hero Slider
 
