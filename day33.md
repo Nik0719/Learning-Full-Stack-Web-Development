@@ -1,2 +1,2 @@
-# Day 33
-MySQL indexing and query optimization
+# Day 33: Performance Tuning
+Analyzed query performance using EXPLAIN and implemented B-Tree indexing for faster lookups.

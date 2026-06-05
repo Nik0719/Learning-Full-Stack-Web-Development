@@ -1,2 +1,2 @@
-# Day 28
-PHP object-oriented programming basics
+# Day 28: OOP Principles
+Created classes with constructors and explored visibility modifiers like public, private, and protected.

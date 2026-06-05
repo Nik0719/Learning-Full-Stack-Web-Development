@@ -1,2 +1,2 @@
-# Day 45
-JavaScript string manipulation
+# Day 45: Regex & Formatting
+Applied regular expressions for advanced pattern matching and dynamic string transformation.

@@ -1,2 +1,2 @@
-# Day 37
-JavaScript variables and data types
+# Day 37: Dynamic Typing
+Mastered variable shadowing and the differences between primitive and reference data types.

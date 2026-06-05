@@ -1,2 +1,2 @@
-# Day 26
-PHP forms, GET, and POST
+# Day 26: Request Methods
+Handled form validation and sanitized user data retrieved from $_GET and $_POST superglobals.

@@ -1,2 +1,2 @@
-# Day 30
-MySQL databases, tables, and schema design
+# Day 30: Schema Architecture
+Designed normalized tables and implemented primary/foreign key relationships for data integrity.

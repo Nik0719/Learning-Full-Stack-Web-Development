@@ -1,2 +1,2 @@
-# Day 29
-MySQL introduction and setup
+# Day 29: Database Initialization
+Configured MySQL connections and learned relational database management fundamentals via CLI.
